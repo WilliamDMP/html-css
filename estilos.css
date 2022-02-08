@@ -5,6 +5,11 @@ body {
 #titulo {
     color: aquamarine;
     margin: 40px;
+    padding: 6px;
+    border-style: outset;
+    border-width: 6px;
+    border-left: 6px solid greenyellow;
+    border-right: 6px solid greenyellow;
 }
 
 h3 {
