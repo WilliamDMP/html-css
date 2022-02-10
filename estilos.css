@@ -10,6 +10,9 @@ body {
     border-width: 6px;
     border-left: 6px solid greenyellow;
     border-right: 6px solid greenyellow;
+    height: fit-content;
+    width: fit-content;
+    border-radius: 8px;
 }
 
 h3 {
@@ -25,4 +28,6 @@ h3 {
     border-width: 5px;
     border-left: 6px solid greenyellow;
     border-right: 6px solid greenyellow;
+    border-radius: 8px;
+
 }
