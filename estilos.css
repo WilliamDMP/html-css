@@ -4,7 +4,7 @@ body {
 
 #titulo {
     color: aquamarine;
-    margin: 40px;
+    margin: auto;
     padding: 6px;
     border-style: outset;
     border-width: 6px;
@@ -14,4 +14,15 @@ body {
 
 h3 {
     color: fuchsia;
+}
+
+#tabla {
+    background-color: antiquewhite;
+    color: brown;
+    margin: auto;
+    padding: 10px;
+    border-style: solid;
+    border-width: 5px;
+    border-left: 6px solid greenyellow;
+    border-right: 6px solid greenyellow;
 }
