@@ -21,6 +21,8 @@ body {
     line-height: 1.8;
     text-decoration: underline;
     text-transform: uppercase;
+    word-spacing: 5px;
+    text-shadow: 3px 4px 10px red;
 }
 
 .formulario {
