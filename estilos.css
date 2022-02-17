@@ -60,6 +60,7 @@ h3 {
     letter-spacing: 2px;
     text-decoration: none;
     text-transform: uppercase;
+    background-color: aquamarine;
 }
 
 h2 {
@@ -72,4 +73,12 @@ a:visited {
 
 a:active {
     color: hotpink;
+}
+
+a {
+    border: solid 1px black;
+    background-color: aqua;
+    border-radius: 3px;
+    padding: 4px;
+    text-shadow: 1px 1px 3px black;
 }
