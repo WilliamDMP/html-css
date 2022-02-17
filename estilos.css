@@ -82,3 +82,16 @@ a {
     padding: 4px;
     text-shadow: 1px 1px 3px black;
 }
+
+ol {
+    background-color: white;
+    border: solid 1px gainsboro;
+    border-radius: 3px;
+    padding-left: 0px;
+}
+
+ol li {
+    margin: 30px;
+    border-bottom: solid 1px gainsboro;
+    list-style-type: circle;
+}
