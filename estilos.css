@@ -95,3 +95,27 @@ ol li {
     border-bottom: solid 1px gainsboro;
     list-style-type: circle;
 }
+
+table {
+    background-color: white;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: chartreuse;
+    padding: 6px;
+    text-align: left;
+}
+tr:nth-child(even) {
+    background-color: powderblue;
+}
+
+td {
+    border: solid 1px lightslategrey;
+    padding: 6px;
+}
+
+tfoot {
+    background-color: chartreuse;
+    padding: 6px;
+}
